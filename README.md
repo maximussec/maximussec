@@ -2,6 +2,7 @@
 
 **`Desenvolvedor de Software (Iniciante)`**
 
+| | |
 | :--- | :--- |
 | **Localização:** | Arapiraca, Alagoas |
 | **Formação:** | Bacharelando em Sistemas de Informação – IFAL |
@@ -27,7 +28,7 @@ Estou em busca de oportunidades que me permitam aplicar e expandir minhas habili
   <img alt="Node.js" title="Node.js" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
 </div>
 
-<br/>
+<br />
 
 ---
 
