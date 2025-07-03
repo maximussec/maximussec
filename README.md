@@ -16,17 +16,7 @@ Estou em busca de oportunidades que me permitam aplicar e expandir minhas habili
 
 ###  Linguagens e Tecnologias
 
-<style>
-   .git {
-      grayscale = 100%;
-   }
-
-   .git:hover {
-      grayscale = 0%;
-      transform: scale(1.1);
-   }
-</style>
-<img class="git"
+<img 
     align="left" 
     alt="Linux" 
     title="Linux"
@@ -34,7 +24,7 @@ Estou em busca de oportunidades que me permitam aplicar e expandir minhas habili
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
 />
-<img class="git"
+<img 
     align="left" 
     alt="HTML"
     title="HTML" 
@@ -42,7 +32,7 @@ Estou em busca de oportunidades que me permitam aplicar e expandir minhas habili
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
-<img class="git"
+<img 
     align="left" 
     alt="CSS" 
     title="CSS"
@@ -58,7 +48,7 @@ Estou em busca de oportunidades que me permitam aplicar e expandir minhas habili
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
-<img class="git"
+<img 
     align="left" 
     alt="MySQL" 
     title="MySQL"
@@ -67,7 +57,7 @@ Estou em busca de oportunidades que me permitam aplicar e expandir minhas habili
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
 />
 
-<img class="git"
+<img 
     align="left" 
     alt="Node.js" 
     title="Node.js"
@@ -83,15 +73,16 @@ Estou em busca de oportunidades que me permitam aplicar e expandir minhas habili
 ###  Estatísticas
 
 <p>
-  <img class="git"
+  <img 
     align="left" 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=maximussec&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br&hide=stars" 
   />
-
-<img class="git"
+   <br>
+   <br>
+<img 
       align="left" 
       alt="GitHub Stats" 
       height="150" 
