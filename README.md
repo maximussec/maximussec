@@ -3,8 +3,8 @@
 **`Desenvolvedor Iniciante`**
 
 Alexandre Maximus
-  Arapiraca, Alagoas | 🎓 Bacharelando em Sistemas de Informação – IFAL
- ✉ alexandre.maximus.dev@outlook.com | Interesses: Desenvolvimento de Software e Tecnologia da Informação
+  — Arapiraca, Alagoas | 🎓 Bacharelando em Sistemas de Informação – IFAL
+  — alexandre.maximus.dev@outlook.com | Interesses: Desenvolvimento de Software e Tecnologia da Informação
 
 Sou Bacharelando em Sistemas de Informação no Instituto Federal de Alagoas – Campus Arapiraca. 
 Natural de Arapiraca, tenho 23 anos, tenho uma paixão de longa data por tecnologia e grande interesse pela área de desenvolvimento de software e redes.
