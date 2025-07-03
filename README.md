@@ -3,7 +3,6 @@
 **`Desenvolvedor de Software (Iniciante)`**
 
 | | |
-| :--- | :--- |
 | **Localização:** | Arapiraca, Alagoas |
 | **Formação:** | Bacharelando em Sistemas de Informação – IFAL |
 | **E-mail:** | alexandre.maximus.dev@outlook.com |
