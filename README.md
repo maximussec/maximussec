@@ -52,14 +52,6 @@ Sou Bacharelando em Sistemas de Informação no Instituto Federal de Alagoas –
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
 />
-<img 
-    align="left" 
-    alt="MongoDB" 
-    title="MongoDB"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" 
-/>
 
 <img 
     align="left" 
@@ -71,18 +63,7 @@ Sou Bacharelando em Sistemas de Informação no Instituto Federal de Alagoas –
 />
 
 
-
-
 <br></br>
-
-
-<div style="display: flex; flex-direction: column; gap: 10px; font-family: sans-serif;">
-  <p>🔄 Carregando novas tecnologias...</p>
-  <p>[■■■■□□□□□□] 40% - Explorando conceitos avançados de JavaScript e C</p>
-  <p>[■■■■■□□□□□] 50% - Praticando com Node.js</p>
-  <p>[■■■■■■■□□□] 70% - Integrando bancos de dados relacionais</p>
-  <p>[■■■■■■■■■■] 100% - Sempre aprendendo!</p>
-</div>
 
 
 ###  Estatísticas
