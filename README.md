@@ -44,7 +44,7 @@ Estou em busca de oportunidades que me permitam aplicar e expandir minhas habili
   </p>
   <p style="margin-top: 15px;">
     <img 
-      alt="Top Linguagens de Maximussec" 
+      alt="Melhores linguagens de Maximus" 
       height="180em" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=maximussec&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=9" 
     />
