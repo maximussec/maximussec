@@ -7,7 +7,7 @@
 | **Localização:** | Arapiraca, Alagoas |
 | **Formação:** | Bacharelando em Sistemas de Informação – IFAL |
 | **E-mail:** | alexandre.maximus.dev@outlook.com |
-| **Interesses:** | Desenvolvimento de Software e Tecnologia da Informação |
+| **Interesses:** | Engenharia de Software e Cibersegurança |
 
 <br>
 
