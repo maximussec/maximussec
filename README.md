@@ -15,7 +15,18 @@ Estou em busca de oportunidades que me permitam aplicar e expandir minhas habili
 ---
 
 ###  Linguagens e Tecnologias
-<img 
+
+<style>
+   .git {
+      grayscale = 100%;
+   }
+
+   .git:hover {
+      grayscale = 0%;
+      transform: scale(1.1);
+   }
+</style>
+<img class="git"
     align="left" 
     alt="Linux" 
     title="Linux"
@@ -23,7 +34,7 @@ Estou em busca de oportunidades que me permitam aplicar e expandir minhas habili
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
 />
-<img 
+<img class="git"
     align="left" 
     alt="HTML"
     title="HTML" 
@@ -31,7 +42,7 @@ Estou em busca de oportunidades que me permitam aplicar e expandir minhas habili
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
-<img 
+<img class="git"
     align="left" 
     alt="CSS" 
     title="CSS"
@@ -39,7 +50,7 @@ Estou em busca de oportunidades que me permitam aplicar e expandir minhas habili
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
-<img 
+<img class="git"
     align="left" 
     alt="JavaScript" 
     title="JavaScript"
@@ -47,7 +58,7 @@ Estou em busca de oportunidades que me permitam aplicar e expandir minhas habili
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
-<img 
+<img class="git"
     align="left" 
     alt="MySQL" 
     title="MySQL"
@@ -56,7 +67,7 @@ Estou em busca de oportunidades que me permitam aplicar e expandir minhas habili
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
 />
 
-<img 
+<img class="git"
     align="left" 
     alt="Node.js" 
     title="Node.js"
@@ -72,7 +83,7 @@ Estou em busca de oportunidades que me permitam aplicar e expandir minhas habili
 ###  Estatísticas
 
 <p>
-  <img 
+  <img class="git"
     align="left" 
     alt="GitHub Stats" 
     height="200" 
@@ -80,7 +91,7 @@ Estou em busca de oportunidades que me permitam aplicar e expandir minhas habili
     src="https://github-readme-stats.vercel.app/api?username=maximussec&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br&hide=stars" 
   />
 
-<img 
+<img class="git"
       align="left" 
       alt="GitHub Stats" 
       height="150" 
