@@ -11,9 +11,11 @@
 
 <br>
 
-Sou Bacharelando em Sistemas de Informação no Instituto Federal de Alagoas – Campus Arapiraca. Natural de Arapiraca, tenho 23 anos, uma paixão de longa data por tecnologia e grande interesse pela área de desenvolvimento de software e redes. Estou sempre em busca de novos conhecimentos, com foco em programação, inovação e soluções criativas para problemas reais.
+Estudante de Sistemas de Informação no IFAL - Campus Arapiraca, sou um programador analítico e dedicado a transformar desafios lógicos em soluções de software eficientes e robustas.
 
-Estou em busca de oportunidades que me permitam aplicar e expandir minhas habilidades técnicas, contribuindo para projetos desafiadores e de impacto.
+Com uma base sólida em C, desenvolvi um gosto particular pelo processo de depuração e refatoração de código, buscando não apenas a resposta correta, mas a mais clara e otimizada. Sou movido pela curiosidade, o que me leva a explorar os 'porquês' por trás da tecnologia, desde os detalhes de baixo nível da linguagem C até os paradigmas modernos de C++ e JavaScript. Valorizo a criação de código limpo e a busca por padrões de algoritmos eficientes para resolver problemas complexos.
+
+Busco uma oportunidade de estágio ou uma vaga júnior onde eu possa aplicar essa mentalidade detalhista e persistente, colaborar com uma equipe e acelerar meu crescimento em projetos de impacto real.
 
 ---
 
