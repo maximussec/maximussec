@@ -1,6 +1,6 @@
 # Alexandre Maximus
 
-**`Desenvolvedor de Software (Iniciante)`**
+**`Engenheiro de Software (Iniciante)`**
 
 | | |
 | :--- | :--- |
