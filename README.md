@@ -3,7 +3,7 @@
 
 ---
 
-### Overview
+### overview
 * **Location:** Arapiraca, Alagoas, Brazil
 * **Education:** B.Sc. in Information Systems – Instituto Federal de Alagoas (IFAL)
 * **Core Focus:** Software Engineering, Cybersecurity & Data Analysis
@@ -11,12 +11,12 @@
 
 ---
 
-### About Me
-Analytical Information Systems student with a solid foundation in low-level computing (C/C++) and modern backend ecosystems. Passionate about algorithms, debugging, and code optimization, I approach software construction with a focus on structural clarity, efficiency, and clean architecture. Driven by deep technical curiosity, I continuously explore the mechanics of systems execution, database optimization, and secure coding practices.
+### about me
+Information Systems undergraduate with a technical focus on software architecture, low-level mechanics, and data systems. My approach to development centers on computational efficiency, rigorous debugging, and structural clarity. I prioritize understanding the underlying execution of software—applying strict algorithmic discipline, from pointer manipulation in C to structured backend pipelines—to engineer secure, optimized, and scalable solutions.
 
 ---
 
-### Tech Stack & Tooling
+### tech stack and tooling
 
 <div align="left">
   <img alt="C" title="C" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" style="padding-right: 15px;" />
@@ -31,19 +31,8 @@ Analytical Information Systems student with a solid foundation in low-level comp
 
 ---
 
-### GitHub Analytics
+### Featured Projects
 
-<div align="center">
-  <p align="center">
-    <img 
-      alt="Alexandre's GitHub Stats" 
-      height="180" 
-      src="https://github-readme-stats.vercel.app/api?username=maximussec&show_icons=true&theme=dracula&include_all_commits=true&locale=en&hide=stars" 
-    />
-    <img 
-      alt="Top Languages" 
-      height="180" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=maximussec&theme=dracula&layout=compact&custom_title=Technologies&langs_count=9" 
-    />
-  </p>
-</div>
+ **[poisson-accident-modeling](https://github.com/maximussec/poisson-accident-modeling)**
+*Statistical modeling and analysis of severe traffic accidents on the BR-101/AL highway. Developed a continuous 365-day time-series ETL pipeline, handled data distribution skewness, and validated theoretical convergence using Pearson's Chi-Square test.*
+`Python` `Data Science` `Applied Statistics` `LaTeX`
