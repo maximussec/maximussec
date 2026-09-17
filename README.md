@@ -52,10 +52,3 @@ Web platform for the management of maker laboratories at IFAL. The project invol
 ### Education
 **B.Sc. in Information Systems** (2025 - 2029)  
 *Instituto Federal de Alagoas — IFAL*
-
----
-
-### GitHub Stats
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=maximussec&show_icons=true&theme=transparent&hide_border=true&title_color=0077B5" alt="Maximus's GitHub Stats" />
-</div>
