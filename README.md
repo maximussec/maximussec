@@ -50,5 +50,5 @@ Web platform for the management of maker laboratories at IFAL. The project invol
 ---
 
 ### Education
-**B.Sc. in Information Systems** (2025 - 2029)  
+**B.Sc. in Information Systems** (2025 - 2028)  
 *Instituto Federal de Alagoas — IFAL*
